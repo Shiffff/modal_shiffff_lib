@@ -10,6 +10,9 @@ const modalStyles = {
     justifyContent: "center",
     alignItems: "center",
     zIndex: 1,
+    margin: 0,
+    padding: 0,
+    boxsizing: "border-box",
   },
   modal: {
     backgroundColor: "white",
@@ -24,6 +27,8 @@ const modalStyles = {
     justifyContent: "center",
     padding: "30px",
     borderRadius: "5px",
+    margin: 0,
+    boxsizing: "border-box",
   },
   close: {
     position: "absolute",
@@ -39,6 +44,9 @@ const modalStyles = {
     alignItems: "center",
     borderRadius: "20px",
     cursor: "pointer",
+    margin: 0,
+    padding: 0,
+    boxsizing: "border-box",
   },
 };
 

@@ -7,7 +7,6 @@ Un composant de modal réutilisable pour React.
 
 ```shell
 npm install modal_shiffff
-```
 ````
 
 ## Utilisation
