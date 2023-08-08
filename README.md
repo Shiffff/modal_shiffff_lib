@@ -1,4 +1,3 @@
-````markdown
 # ModalConfirm Component
 
 Un composant de modal réutilisable pour React.
@@ -6,9 +5,8 @@ Un composant de modal réutilisable pour React.
 ## Installation
 
 ```shell
-npm install modal_shiffff
+npm i modal_shiffff
 ```
-````
 
 ## Utilisation
 
@@ -43,7 +41,7 @@ export default App;
 
 ## Exemples
 
-Voici un exemple d'utilisation du composant :
+Voici un exemple d'utilisation du composant en l'affichant selon le state redux :
 
 ```jsx
 import React from "react";
@@ -69,3 +67,11 @@ const EmployeeCreate = () => {
 
 export default EmployeeCreate;
 ```
+
+## ScreenShot
+
+![Exemple d'image](https://raw.githubusercontent.com/Shiffff/modal_shiffff_lib/main/src/lib/capture.png)
+
+## Node
+
+version: Node.js v18.14.2.

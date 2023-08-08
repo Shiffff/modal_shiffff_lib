@@ -1,6 +1,6 @@
 {
     "name": "modal_shiffff",
-    "version": "1.0.4",
+    "version": "1.0.10",
     "description": "Petite bibliothèque React pour afficher une modal avec une phrase donnée.",
     "license": "MIT",
     "author": "shiffff",
