@@ -70,7 +70,7 @@ export default EmployeeCreate;
 
 ## ScreenShot
 
-![Exemple d'image](https://raw.githubusercontent.com/Shiffff/modal_shiffff_lib/main/src/lib/capture.png)
+![Exemple d'image](https://raw.githubusercontent.com/Shiffff/modal_shiffff_lib/master/src/lib/capture.png)
 
 ## Node
 
